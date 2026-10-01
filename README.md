@@ -1,5 +1,5 @@
-# githubprofile-
-<h1 align="center">Hi, I'm Murali 👋</h1>
+
+<h1 align="center">Hi, I'm CHINTHADA MURALI NAGARAJU👋</h1>
 <h3 align="center">Full-Stack Developer · AI & Data Science Student</h3>
 
 <p align="center">
