@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 B.Tech in **AI & Data Science** at SRKR Engineering College (2022 – 2026)
+- 🎓 B.Tech in **AI & Data Science** at SRKR Engineering College (2023 – 2027)
 - 🛠️ I build full-stack apps with the **MERN stack** and ship real products for real clients
 - 📱 Comfortable with **Capacitor Android apps** and **offline-first** architecture
 - 🤖 Working on **ML + web** projects: fraud detection, malware detection, adaptive learning
